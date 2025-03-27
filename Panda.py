@@ -77,7 +77,7 @@ try:
     plt.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
     plt.show()
 
-    # Hello World 
+    # Hello World  3
     # Hello World 2 
 
 except mysql.connector.Error as err:
